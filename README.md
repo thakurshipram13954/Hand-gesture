@@ -1,4 +1,4 @@
-# Hand Gesture Camera Controller 📷🖐️ (3-Second Timer Edition)
+# Hand Gesture Camera Controller 📷🖐️
 
 A real-time Python Computer Vision application using **OpenCV** and **MediaPipe Hands** to control camera zoom (Smooth Zoom IN / Zoom OUT) and capture photographs with a **3-Second Delay Timer & 3-Second Cooldown** when holding a closed-fist gesture.
 
